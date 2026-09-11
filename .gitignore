@@ -10,7 +10,6 @@
 *.log
 *.out
 *.synctex.gz
-paper/lrd_engine.pdf
 
 # python
 __pycache__/

@@ -9,6 +9,7 @@ produced by the commands below. The solver builds on the one released with Guill
 
 | Path | Contents |
 | --- | --- |
+| `paper/lrd_engine.pdf` | The compiled paper, built from the source in this repo at the commit shown in the commit message |
 | `paper/lrd_engine.tex`, `paper/lrd.bib` | Manuscript (AASTeX 7.0.1 two-column, `pdftex` class option; `aasjournal.bst` included) and ADS-generated bibliography |
 | `paper/twindow.pdf`, `paper/fplane.pdf` | Figures 1 and 2 |
 | `scripts/losscone.py` | GL26 bridged Cohn-Kulsrud loss-cone flux and gravitationally focused collision rate (unmodified) |
